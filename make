@@ -1,1 +1,1 @@
-gcc *.c -lSDL2 -Wall -o test
+g++ *.cpp -lSDL2 -Wall -o test
